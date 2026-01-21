@@ -1,0 +1,12 @@
+
+path: '/content/gdrive/My Drive/yolo4' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+
+names:
+  0: NumberPlate
+
+
+
